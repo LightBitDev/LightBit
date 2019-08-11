@@ -13,7 +13,7 @@ out collectively by the network. Lightbit Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Lightbit Core software, see https://github.com/lightbit/lightbit/releases.
+the Lightbit Core software, see https://github.com/LightBitDev/LightBit/releases.
 
 License
 -------
