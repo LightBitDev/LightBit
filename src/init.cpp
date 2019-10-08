@@ -532,7 +532,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/lightbit/lightbit>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/lightbitproject/lightbit>";
     const std::string URL_WEBSITE = "<https://lightbit.org>";
 
     std::string blcCopyright = strprintf(_("Copyright (C) %i"), COPYRIGHT_YEAR) + " " + strprintf(_(COPYRIGHT_HOLDERS), _(COPYRIGHT_HOLDERS_SUBSTITUTION));
