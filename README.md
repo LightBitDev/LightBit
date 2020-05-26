@@ -23,10 +23,10 @@ the Lightbit Core software, see https://github.com/LightBitProject/LightBit/rele
 SPEC
 -----
 
-`Algo`Yespower.
-`Supply`21.000.000.
-`Premine`0.
-`start @ `10 LITb.
+`Algo`YespowerLITB
+`Supply`21,000,000
+`Premine`0
+`Block Reward `10 LITB
 
 License
 -------
