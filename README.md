@@ -3,13 +3,13 @@ Lightbit Core
 
 Website https://lightbit.xyz
 ANN https://bitcointalk.org/index.php?topic=5174488.0
-Discord https://discord.gg/zqgUv9t
+Discord https://discord.gg/unGuGEB
 
-Explorer http://explorer.lightbit.xyz/ | http://blocks.lightbit.xyz/
+Explorer http://explorer.lightbit.xyz/ | http://blocks.lightbit.xyz/ | http://explorer.customspeed.nl/
 
 
 What is Lightbit?
-----------------
+------------------
 
 Lightbit is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Lightbit uses peer-to-peer technology to operate
@@ -20,11 +20,11 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Lightbit Core software, see https://github.com/LightBitProject/LightBit/releases.
 
-SPEC
------
+SPECS
+------
 
 `Algo`YespowerLITB
-`Supply`21,000,000
+`Supply`21,000,000 (21 Million)
 `Premine`0
 `Block Reward `10 LITB
 
