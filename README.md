@@ -1,7 +1,7 @@
 Lightbit Core
 =====================================
 
-Website https://lightbit.xyz
+Website https://lightbit.tech/
 ANN https://bitcointalk.org/index.php?topic=5174488.0
 Discord https://discord.gg/unGuGEB
 
