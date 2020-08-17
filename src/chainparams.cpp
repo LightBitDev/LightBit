@@ -125,6 +125,10 @@ public:
         consensus.hashGenesisBlock = genesis.GetHash();
         assert(consensus.hashGenesisBlock == uint256S("001a37ca994627042609a8ff350c446b935bb912069c37ec543fbdb0a5ed77b3"));
         assert(genesis.hashMerkleRoot == uint256S("0f731961f3a2d0ed7639e5f1f18e0f6e83a987bd29b75ce88df259974db08959"));
+        
+        vSeeds.emplace_back("45.63.58.234:1604","45.63.58.234:1604");
+        vSeeds.emplace_back("99.16.215.42:1604","99.16.215.42:1604");
+        vSeeds.emplace_back("78.137.5.155:1604","78.137.5.155:1604");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,48); // L
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,30); // D
