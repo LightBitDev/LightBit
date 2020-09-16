@@ -1,7 +1,7 @@
 Lightbit Core
 =====================================
 
-https://lightbit.xyz
+https://lightbit.tech
 
 What is Lightbit?
 ----------------
